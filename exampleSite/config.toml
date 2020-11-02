@@ -1,6 +1,6 @@
 baseURL = "https://abdirahman.tr"
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = "fr"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
